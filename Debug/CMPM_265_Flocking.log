@@ -1,0 +1,4 @@
+﻿  VehicleSystem.cpp
+c:\users\ericg\source\repos\cmpm_265_flocking\cmpm_265_flocking\vmath.h(14): warning C4091: “static ”: 没有声明变量时忽略“VMath”的左侧
+c:\users\ericg\source\repos\cmpm_265_flocking\cmpm_265_flocking\vehiclesystem.cpp(72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  CMPM_265_Flocking.vcxproj -> C:\Users\EricG\source\repos\CMPM_265_Flocking\Debug\CMPM_265_Flocking.exe
